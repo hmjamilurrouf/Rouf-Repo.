@@ -13,7 +13,7 @@ header{
 }
 nav{
   width: 100%;
-  max-width: 1690px;
+  max-width: 1440px;
   display: flex;
   justify-content: space-between;
   margin: 0px auto;
@@ -53,13 +53,17 @@ nav ul li a{
   color: greenyellow;
   transition: 0.5s;
 }
+
 #banner-container{
   width: 100%;
   max-width: 1440px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 39rem 9rem 0px 11rem;
+  margin: 0px auto;
+}
+#banner-container .banner-content{
+  margin-top: 490px;
 }
 #banner-container .banner-content h2{
   font-size: 45px;
