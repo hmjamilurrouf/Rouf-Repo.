@@ -63,26 +63,28 @@ nav ul li a{
   margin: 0px auto;
 }
 #banner-container .banner-content{
-  margin-top: 490px;
+  margin-top: 391px;
 }
+
 #banner-container .banner-content h2{
-  font-size: 45px;
+  font-size: 59px;
   font-weight: 600px;
   color: #474747;
-  margin-bottom: 5px;
+  margin-bottom:7px;
 }
 #banner-container .banner-content h1{
-  width: 798px;
-  height: 116px;
-  font-size: 85px;
+  width: 799px;
+  height: 119px;
+  font-size: 88px;
   font-weight: bold;
-  margin-bottom: 20px;
+  margin-bottom: 91px;
 }
 #banner-container .banner-content p{
   line-height: 30px;
   font-size: 18px;
   color: #757575;
-  margin-bottom: 30px;
+  margin-bottom: 39px;
+
 }
 .banner-content #contact-btn{
   color: greenyellow;
@@ -102,5 +104,6 @@ nav ul li a{
 }
 #banner-container .banner-image img{
   vertical-align: middle;
+  margin-top: 4px;
 }
 
